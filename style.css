@@ -18,3 +18,7 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+test {
+  color: red;
+}
