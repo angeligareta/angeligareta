@@ -1,7 +1,11 @@
+<link rel="https://github.com/angeligareta/angeligareta/blob/master/style.css" type="text/css" media="all" href="URL" />
 <div align="center">
   <h1>Hi, I'm Angel 👋👨‍💻</h1>
 </div>
 
+<p class="blockquote">
+I'd like to help create the technology of the future, not only use it.
+</p>
 ```
 I'd like to help create the technology of the future, not only use it.
 ```
