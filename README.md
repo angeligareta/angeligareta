@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Angel 👋👨‍💻</h1>
 </div>
+
 ```
 I'd like to help create the technology of the future, not only use it.
 ```
+
 ### 😄 About me 
 I'm currently finishing my second year of the [EIT Digital](https://masterschool.eitdigital.eu/) double degree master in Data Science with a minor in Digital Innovation and Entrepreneurship, having studied at the [Universidad Politécnica de Madrid](http://www.upm.es/internacional) as the entry university and currently attending the [KTH Royal Institute of Technology](https://www.kth.se/) as the exit university.
 
