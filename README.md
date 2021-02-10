@@ -3,7 +3,7 @@
   <h1>Hi, I'm Angel 👋👨‍💻</h1>
 </div>
 
-<p class="blockquote">
+<p class="test">
 I'd like to help create the technology of the future, not only use it.
 </p>
 ```
