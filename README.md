@@ -3,7 +3,7 @@
 </div>
 
 ```
-I'd like to help create the technology of the future, not only use it.
+I would like to help create the technology of the future, not only use it.
 ```
 
 ### 😄 About me 
@@ -11,7 +11,7 @@ I'm currently finishing my second year of the [EIT Digital](https://masterschool
 
 I am passionate about digital innovation. My goal is to use the data being collected in different domains to create new solutions that have real impact on people's lives. In my spare time, I love to travel and meet new people from all over the world.
 
-## 🚧 Projects
+## 🔭 Projects
 ### 🔥 Data-Intensive Computing
 - Introduction to Spark, Hadoop, and HBase: [https://github.com/angeligareta/spark-hadoop-hbase-overview](https://github.com/angeligareta/spark-hadoop-hbase-overview)
 - Spark, Kafka, and Cassandra Integration: [https://github.com/angeligareta/spark-kafka-cassandra-overview](https://github.com/angeligareta/spark-kafka-cassandra-overview)
