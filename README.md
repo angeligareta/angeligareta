@@ -1,19 +1,21 @@
-## Hi, I’m Angel 👋👨‍💻
+<div align="center">
+  <h1>Hi, I'm Angel 👋👨‍💻</h1>
+</div>
 ```
 I'd like to help create the technology of the future, not only use it.
 ```
-### About Me 😄
-I’m currently finishing my second year of the [EIT Digital](https://masterschool.eitdigital.eu/) double degree master in Data Science with a minor in Digital Innovation and Entrepreneurship, having studied at the [Universidad Politécnica de Madrid](http://www.upm.es/internacional) as the entry university and currently attending the [KTH Royal Institute of Technology](https://www.kth.se/) as the exit university.
+### 😄 About me 
+I'm currently finishing my second year of the [EIT Digital](https://masterschool.eitdigital.eu/) double degree master in Data Science with a minor in Digital Innovation and Entrepreneurship, having studied at the [Universidad Politécnica de Madrid](http://www.upm.es/internacional) as the entry university and currently attending the [KTH Royal Institute of Technology](https://www.kth.se/) as the exit university.
 
 I am passionate about digital innovation. My goal is to use the data being collected in different domains to create new solutions that have real impact on people's lives. In my spare time, I love to travel and meet new people from all over the world.
 
-### Projects
-🔥 **Data-Intensive Computing**
+## 🚧 Projects
+### 🔥 Data-Intensive Computing
 - Introduction to Spark, Hadoop, and HBase: [https://github.com/angeligareta/spark-hadoop-hbase-overview](https://github.com/angeligareta/spark-hadoop-hbase-overview)
 - Spark, Kafka, and Cassandra Integration: [https://github.com/angeligareta/spark-kafka-cassandra-overview](https://github.com/angeligareta/spark-kafka-cassandra-overview)
 - Smart flight comparer considering alternative transportation: [https://github.com/angeligareta/cheaper-travelling](https://github.com/angeligareta/cheaper-travelling)
 
-### Found me in the web 🌍
+## 🌍 Found me in the web 
 - Publishing my latest projects to my [personal website](https://angeligareta.com/)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/angeligareta/)
 - Reading my incoming emails at [angel@igareta.com](mailto:angel@igareta.com)
