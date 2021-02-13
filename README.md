@@ -6,6 +6,10 @@
 I would like to help create the technology of the future, not only use it.
 ```
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angeligareta&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/angeligareta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeligareta&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/angeligareta)
+
+
 ### 😄 About me 
 I'm currently finishing my second year of the [EIT Digital](https://masterschool.eitdigital.eu/) double degree master in Data Science with a minor in Digital Innovation and Entrepreneurship, having studied at the [Universidad Politécnica de Madrid](http://www.upm.es/internacional) as the entry university and currently attending the [KTH Royal Institute of Technology](https://www.kth.se/) as the exit university.
 
