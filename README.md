@@ -21,6 +21,11 @@ I am passionate about digital innovation. My goal is to use the data being colle
 - Spark, Kafka, and Cassandra Integration: [https://github.com/angeligareta/spark-kafka-cassandra-overview](https://github.com/angeligareta/spark-kafka-cassandra-overview)
 - Smart flight comparer considering alternative transportation: [https://github.com/angeligareta/cheaper-travelling](https://github.com/angeligareta/cheaper-travelling)
 
+### 🏆 Competitions
+- Google HashCode 2020: [https://github.com/angeligareta/hash-code-2020](https://github.com/angeligareta/hash-code-2020)
+- EIT Digital Deephack Budapest 2019: [https://github.com/angeligareta/eit-digital-deephack-budapest-2019](https://github.com/angeligareta/eit-digital-deephack-budapest-2019)
+- Tuenti Challenge 2018: [https://github.com/angeligareta/tuenti-challenge-2018](https://github.com/angeligareta/tuenti-challenge-2018)
+
 ## 🌍 Found me in the web 
 - Publishing my latest projects to my [personal website](https://angeligareta.com/)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/angeligareta/)
