@@ -16,6 +16,12 @@ I'm currently finishing my second year of the [EIT Digital](https://masterschool
 I am passionate about digital innovation. My goal is to use the data being collected in different domains to create new solutions that have real impact on people's lives. In my spare time, I love to travel and meet new people from all over the world.
 
 ## 🔭 Projects
+### ✨ Favorites
+- Deepfakes - Introduction and Latest Implementation: [https://github.com/angeligareta/deepfakes-overview](https://github.com/angeligareta/deepfakes-overview)
+- Exploring how emojis and emoticons affect sentiment analysis: [https://github.com/angeligareta/pictograms-sentiment-analysis](https://github.com/angeligareta/pictograms-sentiment-analysis)
+- Smart flight comparer considering alternative transportation: [https://github.com/angeligareta/cheaper-travelling](https://github.com/angeligareta/cheaper-travelling)
+- Image Colorization: [https://github.com/angeligareta/image-colorization](https://github.com/angeligareta/image-colorization) 
+
 ### 🔥 Data-Intensive Computing
 - Introduction to Spark, Hadoop, and HBase: [https://github.com/angeligareta/spark-hadoop-hbase-overview](https://github.com/angeligareta/spark-hadoop-hbase-overview)
 - Spark, Kafka, and Cassandra Integration: [https://github.com/angeligareta/spark-kafka-cassandra-overview](https://github.com/angeligareta/spark-kafka-cassandra-overview)
@@ -26,7 +32,7 @@ I am passionate about digital innovation. My goal is to use the data being colle
 - EIT Digital Deephack Budapest 2019: [https://github.com/angeligareta/eit-digital-deephack-budapest-2019](https://github.com/angeligareta/eit-digital-deephack-budapest-2019)
 - Tuenti Challenge 2018: [https://github.com/angeligareta/tuenti-challenge-2018](https://github.com/angeligareta/tuenti-challenge-2018)
 
-## 🌍 Found me in the web 
+## 🌍 Find me in the web 
 - Publishing my latest projects to my [personal website](https://angeligareta.com/)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/angeligareta/)
 - Reading my incoming emails at [angel@igareta.com](mailto:angel@igareta.com)
