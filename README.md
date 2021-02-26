@@ -19,7 +19,6 @@ I am passionate about digital innovation. My goal is to use the data being colle
 ### ✨ Favorites
 - Deepfakes - Introduction and Latest Implementation: [https://github.com/angeligareta/deepfakes-overview](https://github.com/angeligareta/deepfakes-overview)
 - Exploring how emojis and emoticons affect sentiment analysis: [https://github.com/angeligareta/pictograms-sentiment-analysis](https://github.com/angeligareta/pictograms-sentiment-analysis)
-- Smart flight comparer considering alternative transportation: [https://github.com/angeligareta/cheaper-travelling](https://github.com/angeligareta/cheaper-travelling)
 - Image Colorization: [https://github.com/angeligareta/image-colorization](https://github.com/angeligareta/image-colorization) 
 
 ### 🔥 Data-Intensive Computing
