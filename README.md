@@ -31,7 +31,7 @@ I am passionate about digital innovation. My goal is to use the data being colle
 - EIT Digital Deephack Budapest 2019: [https://github.com/angeligareta/eit-digital-deephack-budapest-2019](https://github.com/angeligareta/eit-digital-deephack-budapest-2019)
 - Tuenti Challenge 2018: [https://github.com/angeligareta/tuenti-challenge-2018](https://github.com/angeligareta/tuenti-challenge-2018)
 
-## 🌍 Find me in the web 
+## 🌍 Find me on the Internet 
 - Publishing my latest projects to my [personal website](https://angeligareta.com/)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/angeligareta/)
 - Reading my incoming emails at [angel@igareta.com](mailto:angel@igareta.com)
