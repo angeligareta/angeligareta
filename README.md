@@ -9,7 +9,7 @@
 
 ### About me
 
-I work as a Principal Data Scientist at Klarna, specializing in AI agent architecture and context engineering. My work focuses on designing LLM-powered systems that combine reasoning, memory, and tool use — with an emphasis on rigorous evaluation to ensure reliability in production.
+I work as a Principal Data Scientist at Klarna — specializing in AI agent architecture and context engineering. Designing LLM-powered systems that combine reasoning, memory, and tool use, with an emphasis on rigorous evaluation to ensure reliability in production.
 
 Previously built the first multi-market underwriting model at Klarna, authored articles for Towards Data Science, and founded [Feeling The Net](https://www.youtube.com/channel/UChBkxLPlKqEjl7_g3pfIlqw) — a YouTube channel with 120K+ followers and 25M+ views.
 
@@ -25,10 +25,11 @@ Previously built the first multi-market underwriting model at Klarna, authored a
 - [Pictograms & Sentiment Analysis](https://github.com/angeligareta/pictograms-sentiment-analysis)
 
 ### 📝 Writing
-- Klarna Engineering — [Customer Support Bot](https://engineering.klarna.com/) (Nov 2023)
+- [Stop Misusing ROC Curve and GINI](https://engineering.klarna.com/stop-misusing-roc-curve-and-gini-navigate-imbalanced-datasets-with-confidence-5edec4c187d7) — Klarna Engineering (Nov 2023)
 - [Towards Data Science — Deepfakes, Emojis & More](https://angeligareta.medium.com/)
 
 ### 🌍 Find me
 - Website: [angeligareta.com](https://angeligareta.com/)
 - LinkedIn: [angeligareta](https://www.linkedin.com/in/angeligareta/)
+- YouTube: [Feeling The Net](https://www.youtube.com/@feelingthenet)
 - Email: [angel@igareta.com](mailto:angel@igareta.com)
